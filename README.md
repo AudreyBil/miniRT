@@ -110,34 +110,35 @@ me skull.obj 0,0,0 0,0,0 1 255,255,255
 
 ### Mandatory Features
 - **Basic Shapes** (`scenes/mandatory/basic_shapes.rt`)
-  ![Placeholder: Basic geometric shapes - sphere, plane, cylinder]
+  ![Basic geometric shapes - sphere, plane, cylinder](Screenshots/basic_shapes.png)
 
 - **Multiple Objects** (`scenes/mandatory/multiple_objects.rt`)
-  ![Placeholder: Complex scene with multiple overlapping objects]
+  ![Complex scene with multiple overlapping objects](Screenshots/multiples_objects.png)
 
 
 ### Bonus Features
 
 #### Advanced Materials
 - **Reflectivity Showcase** (`scenes/bonus/reflectivity.rt`)
-  ![Placeholder: Mirror-like spheres reflecting environment]
+  ![Mirror-like spheres reflecting environment](Screenshots/reflectivity.png)
 
 - **Refraction Demo** (`scenes/bonus/refractivety.rt`)
-  ![Placeholder: Glass objects with light refraction]
+  ![Glass objects with light refraction](Screenshots/refraction.png)
 
 #### Lighting Effects
-- **Colored Lights** (`scenes/bonus/colored_lights/`)
-  ![Placeholder: Scene with red, green, and blue lights mixing]
 
 - **Three Lights** (`scenes/bonus/three_lights.rt`)
-  ![Placeholder: Dramatic lighting with multiple colored sources]
+  ![Dramatic lighting with multiple colored sources](Screenshots/coloredlights.png)
 
 #### Textures & Materials
-- **Textured Surfaces** (`scenes/bonus/textured/`)
-  ![Placeholder: Objects with wood, stone, and earth textures]
+- **Textured Surfaces** (`scenes/bonus/textured/textures.rt`)
+  ![Sphere with wood, stone, and sky textures](Screenshots/textures.png)
 
-- **Checkerboard Patterns** (`scenes/bonus/checker_board/`)
-  ![Placeholder: Procedural checkerboard on various shapes]
+- **Textured Surfaces + Bumpmaps** (`scenes/bonus/textured/brick_texture.rt`)
+  ![Brick texture](Screenshots/bricktexture.png)
+
+- **Checkerboard Patterns** (`scenes/bonus/checker_board/checkerboard_showcase.rt`)
+  ![ Procedural checkerboard on various shapes](Screenshots/checkerboard.png)
 
 #### Complex Models
 
@@ -145,7 +146,7 @@ me skull.obj 0,0,0 0,0,0 1 255,255,255
   ![Dragon](Screenshots/dragon.png)
 
 
-- **3D Meshes - Skull** (`scenes/bonus/mesh/`)
+- **3D Meshes - Skull** (`scenes/bonus/mesh/skull.rt`)
   ![Skulls](Screenshots/skull.png)
 
 - **3D Meshes - Volkswagen** (`scenes/bonus/Volkswagen_beetle_1963_obj.rt`)
