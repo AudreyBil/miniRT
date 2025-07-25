@@ -140,11 +140,16 @@ me skull.obj 0,0,0 0,0,0 1 255,255,255
   ![Placeholder: Procedural checkerboard on various shapes]
 
 #### Complex Models
-- **3D Meshes - Skull** (`scenes/bonus/mesh/`)
-  ![Placeholder: Complex 3D models like skulls and cars]
 
-- **3D Meshes - Volkswagen** (`scenes/creation/icecream.rt`)
-  ![Placeholder: Detailed 3D ice cream cone model]
+- **Triangles - Dragon** (`scenes/bonus/many_triangles/dragon.rt`)
+  ![Dragon](Screenshots/dragon.png)
+
+
+- **3D Meshes - Skull** (`scenes/bonus/mesh/`)
+  ![Skulls](Screenshots/skull.png)
+
+- **3D Meshes - Volkswagen** (`scenes/bonus/Volkswagen_beetle_1963_obj.rt`)
+  ![Volkswagen](Screenshots/VW.png)
 
 ## 🔧 Building and Running
 
